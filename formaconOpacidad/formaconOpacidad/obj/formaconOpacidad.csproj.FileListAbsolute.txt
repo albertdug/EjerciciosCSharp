@@ -1,0 +1,8 @@
+C:\Documents and Settings\Irving Flores\Mis documentos\Visual Studio 2005\Projects\formaconOpacidad\formaconOpacidad\bin\Debug\formaconOpacidad.exe
+C:\Documents and Settings\Irving Flores\Mis documentos\Visual Studio 2005\Projects\formaconOpacidad\formaconOpacidad\bin\Debug\formaconOpacidad.pdb
+C:\Documents and Settings\Irving Flores\Mis documentos\Visual Studio 2005\Projects\formaconOpacidad\formaconOpacidad\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Irving Flores\Mis documentos\Visual Studio 2005\Projects\formaconOpacidad\formaconOpacidad\obj\Debug\formaconOpacidad.Form1.resources
+C:\Documents and Settings\Irving Flores\Mis documentos\Visual Studio 2005\Projects\formaconOpacidad\formaconOpacidad\obj\Debug\formaconOpacidad.Properties.Resources.resources
+C:\Documents and Settings\Irving Flores\Mis documentos\Visual Studio 2005\Projects\formaconOpacidad\formaconOpacidad\obj\Debug\formaconOpacidad.csproj.GenerateResource.Cache
+C:\Documents and Settings\Irving Flores\Mis documentos\Visual Studio 2005\Projects\formaconOpacidad\formaconOpacidad\obj\Debug\formaconOpacidad.exe
+C:\Documents and Settings\Irving Flores\Mis documentos\Visual Studio 2005\Projects\formaconOpacidad\formaconOpacidad\obj\Debug\formaconOpacidad.pdb
