@@ -1,0 +1,267 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>
+    </ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{B5B633E7-8624-4965-97B0-04E5DFFE3498}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>ReportsApplication1</RootNamespace>
+    <AssemblyName>ReportsApplication1</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <TargetFrameworkProfile>Client</TargetFrameworkProfile>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <PlatformTarget>x86</PlatformTarget>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup>
+    <StartupObject>ReportsApplication1.Program</StartupObject>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Microsoft.ReportViewer.WinForms, Version=10.0.0.0 Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Web.Services" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Core">
+      <RequiredTargetFramework>4.0</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Xml.Linq">
+      <RequiredTargetFramework>4.0</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Data.DataSetExtensions">
+      <RequiredTargetFramework>4.0</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="Microsoft.CSharp">
+      <RequiredTargetFramework>4.0</RequiredTargetFramework>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="cheques.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="cheques.Designer.cs">
+      <DependentUpon>cheques.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CompraVenta.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CompraVenta.Designer.cs">
+      <DependentUpon>CompraVenta.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CuentasCobrar.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CuentasCobrar.Designer.cs">
+      <DependentUpon>CuentasCobrar.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Inventario.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Inventario.Designer.cs">
+      <DependentUpon>Inventario.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Principal.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Principal.Designer.cs">
+      <DependentUpon>Principal.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="RBAN.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="RBAN.Designer.cs">
+      <DependentUpon>RBAN.cs</DependentUpon>
+    </Compile>
+    <Compile Include="RCC.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="RCC.Designer.cs">
+      <DependentUpon>RCC.cs</DependentUpon>
+    </Compile>
+    <Compile Include="RCV.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="RCV.Designer.cs">
+      <DependentUpon>RCV.cs</DependentUpon>
+    </Compile>
+    <Compile Include="RegBanco.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="RegBanco.Designer.cs">
+      <DependentUpon>RegBanco.cs</DependentUpon>
+    </Compile>
+    <Compile Include="RegProducto.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="RegProducto.Designer.cs">
+      <DependentUpon>RegProducto.cs</DependentUpon>
+    </Compile>
+    <Compile Include="RegUsuario.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="RegUsuario.Designer.cs">
+      <DependentUpon>RegUsuario.cs</DependentUpon>
+    </Compile>
+    <Compile Include="RIN.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="RIN.Designer.cs">
+      <DependentUpon>RIN.cs</DependentUpon>
+    </Compile>
+    <Compile Include="smDataSet.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>smDataSet.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="smDataSet1.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>smDataSet1.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="smDataSet2.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>smDataSet2.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="Usuario.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Usuario.Designer.cs">
+      <DependentUpon>Usuario.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="cheques.resx">
+      <DependentUpon>cheques.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CompraVenta.resx">
+      <DependentUpon>CompraVenta.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CuentasCobrar.resx">
+      <DependentUpon>CuentasCobrar.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Inventario.resx">
+      <DependentUpon>Inventario.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Principal.resx">
+      <DependentUpon>Principal.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="RBAN.resx">
+      <DependentUpon>RBAN.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="RCC.resx">
+      <DependentUpon>RCC.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="RCV.resx">
+      <DependentUpon>RCV.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="RegBanco.resx">
+      <DependentUpon>RegBanco.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="RegProducto.resx">
+      <DependentUpon>RegProducto.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="RegUsuario.resx">
+      <DependentUpon>RegUsuario.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Report1.rdlc" />
+    <EmbeddedResource Include="Report2.rdlc" />
+    <EmbeddedResource Include="Report4.rdlc" />
+    <EmbeddedResource Include="Report5.rdlc" />
+    <EmbeddedResource Include="RIN.resx">
+      <DependentUpon>RIN.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Usuario.resx">
+      <DependentUpon>Usuario.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <None Include="smDataSet.xsc">
+      <DependentUpon>smDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="smDataSet.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>smDataSet.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="smDataSet.xss">
+      <DependentUpon>smDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="smDataSet1.xsc">
+      <DependentUpon>smDataSet1.xsd</DependentUpon>
+    </None>
+    <None Include="smDataSet1.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>smDataSet1.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="smDataSet1.xss">
+      <DependentUpon>smDataSet1.xsd</DependentUpon>
+    </None>
+    <None Include="smDataSet2.xsc">
+      <DependentUpon>smDataSet2.xsd</DependentUpon>
+    </None>
+    <None Include="smDataSet2.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>smDataSet2.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="smDataSet2.xss">
+      <DependentUpon>smDataSet2.xsd</DependentUpon>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="sm.accdb">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+  </ItemGroup>
+  <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

@@ -1,0 +1,24 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReportsApplication1", "ReportsApplication1\ReportsApplication1.csproj", "{B5B633E7-8624-4965-97B0-04E5DFFE3498}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "SanMiguel", "SanMiguel\SanMiguel.vdproj", "{A45E2EE4-7D39-4D94-8BA1-15B41E20DAB4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B5B633E7-8624-4965-97B0-04E5DFFE3498}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B5B633E7-8624-4965-97B0-04E5DFFE3498}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B5B633E7-8624-4965-97B0-04E5DFFE3498}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B5B633E7-8624-4965-97B0-04E5DFFE3498}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A45E2EE4-7D39-4D94-8BA1-15B41E20DAB4}.Debug|Any CPU.ActiveCfg = Debug
+		{A45E2EE4-7D39-4D94-8BA1-15B41E20DAB4}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
