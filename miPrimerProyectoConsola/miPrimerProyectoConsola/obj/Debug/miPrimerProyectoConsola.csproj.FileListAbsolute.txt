@@ -1,0 +1,4 @@
+C:\Users\Albert\Desktop\C\Ejercicios\miPrimerProyectoConsola\miPrimerProyectoConsola\bin\Debug\miPrimerProyectoConsola.exe
+C:\Users\Albert\Desktop\C\Ejercicios\miPrimerProyectoConsola\miPrimerProyectoConsola\bin\Debug\miPrimerProyectoConsola.pdb
+C:\Users\Albert\Desktop\C\Ejercicios\miPrimerProyectoConsola\miPrimerProyectoConsola\obj\Debug\miPrimerProyectoConsola.exe
+C:\Users\Albert\Desktop\C\Ejercicios\miPrimerProyectoConsola\miPrimerProyectoConsola\obj\Debug\miPrimerProyectoConsola.pdb
