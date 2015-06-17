@@ -1,0 +1,7 @@
+C:\Users\Albert\Desktop\C\Ejercicios\proveedorErrores\proveedorErrores\bin\Debug\proveedorErrores.exe
+C:\Users\Albert\Desktop\C\Ejercicios\proveedorErrores\proveedorErrores\bin\Debug\proveedorErrores.pdb
+C:\Users\Albert\Desktop\C\Ejercicios\proveedorErrores\proveedorErrores\obj\Debug\proveedorErrores.Form1.resources
+C:\Users\Albert\Desktop\C\Ejercicios\proveedorErrores\proveedorErrores\obj\Debug\proveedorErrores.Properties.Resources.resources
+C:\Users\Albert\Desktop\C\Ejercicios\proveedorErrores\proveedorErrores\obj\Debug\proveedorErrores.csproj.GenerateResource.Cache
+C:\Users\Albert\Desktop\C\Ejercicios\proveedorErrores\proveedorErrores\obj\Debug\proveedorErrores.exe
+C:\Users\Albert\Desktop\C\Ejercicios\proveedorErrores\proveedorErrores\obj\Debug\proveedorErrores.pdb

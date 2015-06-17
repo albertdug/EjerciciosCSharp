@@ -1,0 +1,8 @@
+C:\Documents and Settings\Irving Flores\Mis documentos\Visual Studio 2005\Projects\proveedorErrores\proveedorErrores\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Irving Flores\Mis documentos\Visual Studio 2005\Projects\proveedorErrores\proveedorErrores\obj\Debug\proveedorErrores.Form1.resources
+C:\Documents and Settings\Irving Flores\Mis documentos\Visual Studio 2005\Projects\proveedorErrores\proveedorErrores\obj\Debug\proveedorErrores.Properties.Resources.resources
+C:\Documents and Settings\Irving Flores\Mis documentos\Visual Studio 2005\Projects\proveedorErrores\proveedorErrores\obj\Debug\proveedorErrores.csproj.GenerateResource.Cache
+C:\Documents and Settings\Irving Flores\Mis documentos\Visual Studio 2005\Projects\proveedorErrores\proveedorErrores\bin\Debug\proveedorErrores.exe
+C:\Documents and Settings\Irving Flores\Mis documentos\Visual Studio 2005\Projects\proveedorErrores\proveedorErrores\bin\Debug\proveedorErrores.pdb
+C:\Documents and Settings\Irving Flores\Mis documentos\Visual Studio 2005\Projects\proveedorErrores\proveedorErrores\obj\Debug\proveedorErrores.exe
+C:\Documents and Settings\Irving Flores\Mis documentos\Visual Studio 2005\Projects\proveedorErrores\proveedorErrores\obj\Debug\proveedorErrores.pdb
