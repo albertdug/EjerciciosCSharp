@@ -1,0 +1,8 @@
+C:\Documents and Settings\Irving Flores\Mis documentos\Visual Studio 2005\Projects\datetimeTiempoReal\datetimeTiempoReal\bin\Debug\datetimeTiempoReal.exe
+C:\Documents and Settings\Irving Flores\Mis documentos\Visual Studio 2005\Projects\datetimeTiempoReal\datetimeTiempoReal\bin\Debug\datetimeTiempoReal.pdb
+C:\Documents and Settings\Irving Flores\Mis documentos\Visual Studio 2005\Projects\datetimeTiempoReal\datetimeTiempoReal\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Irving Flores\Mis documentos\Visual Studio 2005\Projects\datetimeTiempoReal\datetimeTiempoReal\obj\Debug\datetimeTiempoReal.Form1.resources
+C:\Documents and Settings\Irving Flores\Mis documentos\Visual Studio 2005\Projects\datetimeTiempoReal\datetimeTiempoReal\obj\Debug\datetimeTiempoReal.Properties.Resources.resources
+C:\Documents and Settings\Irving Flores\Mis documentos\Visual Studio 2005\Projects\datetimeTiempoReal\datetimeTiempoReal\obj\Debug\datetimeTiempoReal.csproj.GenerateResource.Cache
+C:\Documents and Settings\Irving Flores\Mis documentos\Visual Studio 2005\Projects\datetimeTiempoReal\datetimeTiempoReal\obj\Debug\datetimeTiempoReal.exe
+C:\Documents and Settings\Irving Flores\Mis documentos\Visual Studio 2005\Projects\datetimeTiempoReal\datetimeTiempoReal\obj\Debug\datetimeTiempoReal.pdb
