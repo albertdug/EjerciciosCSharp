@@ -1,0 +1,16 @@
+F:\Proyectos C# Maniax\cambiarEstiloVentana\cambiarEstiloVentana\obj\Debug\cambiarEstiloVentana.exe
+F:\Proyectos C# Maniax\cambiarEstiloVentana\cambiarEstiloVentana\obj\Debug\cambiarEstiloVentana.pdb
+F:\Proyectos C# Maniax\cambiarEstiloVentana\cambiarEstiloVentana\bin\Debug\cambiarEstiloVentana.exe
+F:\Proyectos C# Maniax\cambiarEstiloVentana\cambiarEstiloVentana\bin\Debug\cambiarEstiloVentana.pdb
+F:\Proyectos C# Maniax\cambiarEstiloVentana\cambiarEstiloVentana\obj\Debug\cambiarEstiloVentana.Form1.resources
+F:\Proyectos C# Maniax\cambiarEstiloVentana\cambiarEstiloVentana\obj\Debug\cambiarEstiloVentana.Properties.Resources.resources
+F:\Proyectos C# Maniax\cambiarEstiloVentana\cambiarEstiloVentana\obj\Debug\cambiarEstiloVentana.csproj.GenerateResource.Cache
+C:\Users\Albert\Desktop\C\Proyectos C# Maniax\cambiarEstiloVentana\cambiarEstiloVentana\obj\Debug\cambiarEstiloVentana.exe
+C:\Users\Albert\Desktop\C\Proyectos C# Maniax\cambiarEstiloVentana\cambiarEstiloVentana\obj\Debug\cambiarEstiloVentana.pdb
+C:\Users\Albert\Desktop\C\Ejercicios\cambiarEstiloVentana\cambiarEstiloVentana\obj\Debug\cambiarEstiloVentana.exe
+C:\Users\Albert\Desktop\C\Ejercicios\cambiarEstiloVentana\cambiarEstiloVentana\obj\Debug\cambiarEstiloVentana.pdb
+C:\Users\Albert\Desktop\C\Ejercicios\cambiarEstiloVentana\cambiarEstiloVentana\bin\Debug\cambiarEstiloVentana.exe
+C:\Users\Albert\Desktop\C\Ejercicios\cambiarEstiloVentana\cambiarEstiloVentana\bin\Debug\cambiarEstiloVentana.pdb
+C:\Users\Albert\Desktop\C\Ejercicios\cambiarEstiloVentana\cambiarEstiloVentana\obj\Debug\cambiarEstiloVentana.Form1.resources
+C:\Users\Albert\Desktop\C\Ejercicios\cambiarEstiloVentana\cambiarEstiloVentana\obj\Debug\cambiarEstiloVentana.Properties.Resources.resources
+C:\Users\Albert\Desktop\C\Ejercicios\cambiarEstiloVentana\cambiarEstiloVentana\obj\Debug\cambiarEstiloVentana.csproj.GenerateResource.Cache
