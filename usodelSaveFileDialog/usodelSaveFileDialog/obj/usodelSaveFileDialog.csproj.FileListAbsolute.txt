@@ -1,0 +1,8 @@
+C:\Documents and Settings\Irving Flores\Mis documentos\Visual Studio 2005\Projects\usodelSaveFileDialog\usodelSaveFileDialog\bin\Debug\usodelSaveFileDialog.exe
+C:\Documents and Settings\Irving Flores\Mis documentos\Visual Studio 2005\Projects\usodelSaveFileDialog\usodelSaveFileDialog\bin\Debug\usodelSaveFileDialog.pdb
+C:\Documents and Settings\Irving Flores\Mis documentos\Visual Studio 2005\Projects\usodelSaveFileDialog\usodelSaveFileDialog\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Irving Flores\Mis documentos\Visual Studio 2005\Projects\usodelSaveFileDialog\usodelSaveFileDialog\obj\Debug\usodelSaveFileDialog.Form1.resources
+C:\Documents and Settings\Irving Flores\Mis documentos\Visual Studio 2005\Projects\usodelSaveFileDialog\usodelSaveFileDialog\obj\Debug\usodelSaveFileDialog.Properties.Resources.resources
+C:\Documents and Settings\Irving Flores\Mis documentos\Visual Studio 2005\Projects\usodelSaveFileDialog\usodelSaveFileDialog\obj\Debug\usodelSaveFileDialog.csproj.GenerateResource.Cache
+C:\Documents and Settings\Irving Flores\Mis documentos\Visual Studio 2005\Projects\usodelSaveFileDialog\usodelSaveFileDialog\obj\Debug\usodelSaveFileDialog.exe
+C:\Documents and Settings\Irving Flores\Mis documentos\Visual Studio 2005\Projects\usodelSaveFileDialog\usodelSaveFileDialog\obj\Debug\usodelSaveFileDialog.pdb

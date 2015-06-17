@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "usodelSaveFileDialog", "usodelSaveFileDialog\usodelSaveFileDialog.csproj", "{B02BD466-8C21-4AF9-A79B-CA68C06EF8E8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B02BD466-8C21-4AF9-A79B-CA68C06EF8E8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B02BD466-8C21-4AF9-A79B-CA68C06EF8E8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B02BD466-8C21-4AF9-A79B-CA68C06EF8E8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B02BD466-8C21-4AF9-A79B-CA68C06EF8E8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
