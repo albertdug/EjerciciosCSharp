@@ -1,0 +1,8 @@
+C:\Documents and Settings\Irving Flores\Mis documentos\Visual Studio 2005\Projects\moverformSinBordes\moverformSinBordes\bin\Debug\moverformSinBordes.exe
+C:\Documents and Settings\Irving Flores\Mis documentos\Visual Studio 2005\Projects\moverformSinBordes\moverformSinBordes\bin\Debug\moverformSinBordes.pdb
+C:\Documents and Settings\Irving Flores\Mis documentos\Visual Studio 2005\Projects\moverformSinBordes\moverformSinBordes\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Irving Flores\Mis documentos\Visual Studio 2005\Projects\moverformSinBordes\moverformSinBordes\obj\Debug\moverformSinBordes.Form1.resources
+C:\Documents and Settings\Irving Flores\Mis documentos\Visual Studio 2005\Projects\moverformSinBordes\moverformSinBordes\obj\Debug\moverformSinBordes.Properties.Resources.resources
+C:\Documents and Settings\Irving Flores\Mis documentos\Visual Studio 2005\Projects\moverformSinBordes\moverformSinBordes\obj\Debug\moverformSinBordes.csproj.GenerateResource.Cache
+C:\Documents and Settings\Irving Flores\Mis documentos\Visual Studio 2005\Projects\moverformSinBordes\moverformSinBordes\obj\Debug\moverformSinBordes.exe
+C:\Documents and Settings\Irving Flores\Mis documentos\Visual Studio 2005\Projects\moverformSinBordes\moverformSinBordes\obj\Debug\moverformSinBordes.pdb

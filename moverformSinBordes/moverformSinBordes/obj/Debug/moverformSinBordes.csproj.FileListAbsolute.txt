@@ -1,0 +1,7 @@
+C:\Users\Albert\Desktop\C\Ejercicios\moverformSinBordes\moverformSinBordes\obj\Debug\moverformSinBordes.exe
+C:\Users\Albert\Desktop\C\Ejercicios\moverformSinBordes\moverformSinBordes\obj\Debug\moverformSinBordes.pdb
+C:\Users\Albert\Desktop\C\Ejercicios\moverformSinBordes\moverformSinBordes\bin\Debug\moverformSinBordes.exe
+C:\Users\Albert\Desktop\C\Ejercicios\moverformSinBordes\moverformSinBordes\bin\Debug\moverformSinBordes.pdb
+C:\Users\Albert\Desktop\C\Ejercicios\moverformSinBordes\moverformSinBordes\obj\Debug\moverformSinBordes.Form1.resources
+C:\Users\Albert\Desktop\C\Ejercicios\moverformSinBordes\moverformSinBordes\obj\Debug\moverformSinBordes.Properties.Resources.resources
+C:\Users\Albert\Desktop\C\Ejercicios\moverformSinBordes\moverformSinBordes\obj\Debug\moverformSinBordes.csproj.GenerateResource.Cache
