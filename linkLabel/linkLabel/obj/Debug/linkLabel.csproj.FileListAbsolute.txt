@@ -1,0 +1,7 @@
+C:\Users\Albert\Desktop\C\Ejercicios\linkLabel\linkLabel\obj\Debug\linkLabel.exe
+C:\Users\Albert\Desktop\C\Ejercicios\linkLabel\linkLabel\obj\Debug\linkLabel.pdb
+C:\Users\Albert\Desktop\C\Ejercicios\linkLabel\linkLabel\bin\Debug\linkLabel.exe
+C:\Users\Albert\Desktop\C\Ejercicios\linkLabel\linkLabel\bin\Debug\linkLabel.pdb
+C:\Users\Albert\Desktop\C\Ejercicios\linkLabel\linkLabel\obj\Debug\linkLabel.Form1.resources
+C:\Users\Albert\Desktop\C\Ejercicios\linkLabel\linkLabel\obj\Debug\linkLabel.Properties.Resources.resources
+C:\Users\Albert\Desktop\C\Ejercicios\linkLabel\linkLabel\obj\Debug\linkLabel.csproj.GenerateResource.Cache

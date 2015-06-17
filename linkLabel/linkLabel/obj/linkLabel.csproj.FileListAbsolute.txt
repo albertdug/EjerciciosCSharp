@@ -1,0 +1,8 @@
+C:\Documents and Settings\Irving Flores\Mis documentos\Visual Studio 2005\Projects\linkLabel\linkLabel\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Irving Flores\Mis documentos\Visual Studio 2005\Projects\linkLabel\linkLabel\obj\Debug\linkLabel.Form1.resources
+C:\Documents and Settings\Irving Flores\Mis documentos\Visual Studio 2005\Projects\linkLabel\linkLabel\obj\Debug\linkLabel.Properties.Resources.resources
+C:\Documents and Settings\Irving Flores\Mis documentos\Visual Studio 2005\Projects\linkLabel\linkLabel\obj\Debug\linkLabel.csproj.GenerateResource.Cache
+C:\Documents and Settings\Irving Flores\Mis documentos\Visual Studio 2005\Projects\linkLabel\linkLabel\bin\Debug\linkLabel.exe
+C:\Documents and Settings\Irving Flores\Mis documentos\Visual Studio 2005\Projects\linkLabel\linkLabel\bin\Debug\linkLabel.pdb
+C:\Documents and Settings\Irving Flores\Mis documentos\Visual Studio 2005\Projects\linkLabel\linkLabel\obj\Debug\linkLabel.exe
+C:\Documents and Settings\Irving Flores\Mis documentos\Visual Studio 2005\Projects\linkLabel\linkLabel\obj\Debug\linkLabel.pdb
