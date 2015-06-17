@@ -1,0 +1,7 @@
+C:\Users\Albert\Desktop\C\Ejercicios\realizarCopiaImagen\realizarCopiaImagen\obj\Debug\realizarCopiaImagen.exe
+C:\Users\Albert\Desktop\C\Ejercicios\realizarCopiaImagen\realizarCopiaImagen\obj\Debug\realizarCopiaImagen.pdb
+C:\Users\Albert\Desktop\C\Ejercicios\realizarCopiaImagen\realizarCopiaImagen\bin\Debug\realizarCopiaImagen.exe
+C:\Users\Albert\Desktop\C\Ejercicios\realizarCopiaImagen\realizarCopiaImagen\bin\Debug\realizarCopiaImagen.pdb
+C:\Users\Albert\Desktop\C\Ejercicios\realizarCopiaImagen\realizarCopiaImagen\obj\Debug\realizarCopiaImagen.Form1.resources
+C:\Users\Albert\Desktop\C\Ejercicios\realizarCopiaImagen\realizarCopiaImagen\obj\Debug\realizarCopiaImagen.Properties.Resources.resources
+C:\Users\Albert\Desktop\C\Ejercicios\realizarCopiaImagen\realizarCopiaImagen\obj\Debug\realizarCopiaImagen.csproj.GenerateResource.Cache

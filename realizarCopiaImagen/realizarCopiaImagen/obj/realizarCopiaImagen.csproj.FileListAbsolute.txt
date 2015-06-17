@@ -1,0 +1,8 @@
+C:\Documents and Settings\Irving Flores\Mis documentos\Visual Studio 2005\Projects\realizarCopiaImagen\realizarCopiaImagen\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Irving Flores\Mis documentos\Visual Studio 2005\Projects\realizarCopiaImagen\realizarCopiaImagen\obj\Debug\realizarCopiaImagen.Form1.resources
+C:\Documents and Settings\Irving Flores\Mis documentos\Visual Studio 2005\Projects\realizarCopiaImagen\realizarCopiaImagen\obj\Debug\realizarCopiaImagen.Properties.Resources.resources
+C:\Documents and Settings\Irving Flores\Mis documentos\Visual Studio 2005\Projects\realizarCopiaImagen\realizarCopiaImagen\obj\Debug\realizarCopiaImagen.csproj.GenerateResource.Cache
+C:\Documents and Settings\Irving Flores\Mis documentos\Visual Studio 2005\Projects\realizarCopiaImagen\realizarCopiaImagen\bin\Debug\realizarCopiaImagen.exe
+C:\Documents and Settings\Irving Flores\Mis documentos\Visual Studio 2005\Projects\realizarCopiaImagen\realizarCopiaImagen\bin\Debug\realizarCopiaImagen.pdb
+C:\Documents and Settings\Irving Flores\Mis documentos\Visual Studio 2005\Projects\realizarCopiaImagen\realizarCopiaImagen\obj\Debug\realizarCopiaImagen.exe
+C:\Documents and Settings\Irving Flores\Mis documentos\Visual Studio 2005\Projects\realizarCopiaImagen\realizarCopiaImagen\obj\Debug\realizarCopiaImagen.pdb
