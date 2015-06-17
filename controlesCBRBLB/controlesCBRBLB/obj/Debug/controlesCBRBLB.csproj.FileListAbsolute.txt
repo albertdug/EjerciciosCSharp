@@ -1,0 +1,7 @@
+C:\Users\Albert\Desktop\C\Ejercicios\controlesCBRBLB\controlesCBRBLB\obj\Debug\controlesCBRBLB.exe
+C:\Users\Albert\Desktop\C\Ejercicios\controlesCBRBLB\controlesCBRBLB\obj\Debug\controlesCBRBLB.pdb
+C:\Users\Albert\Desktop\C\Ejercicios\controlesCBRBLB\controlesCBRBLB\bin\Debug\controlesCBRBLB.exe
+C:\Users\Albert\Desktop\C\Ejercicios\controlesCBRBLB\controlesCBRBLB\bin\Debug\controlesCBRBLB.pdb
+C:\Users\Albert\Desktop\C\Ejercicios\controlesCBRBLB\controlesCBRBLB\obj\Debug\controlesCBRBLB.Form1.resources
+C:\Users\Albert\Desktop\C\Ejercicios\controlesCBRBLB\controlesCBRBLB\obj\Debug\controlesCBRBLB.Properties.Resources.resources
+C:\Users\Albert\Desktop\C\Ejercicios\controlesCBRBLB\controlesCBRBLB\obj\Debug\controlesCBRBLB.csproj.GenerateResource.Cache

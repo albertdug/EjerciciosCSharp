@@ -1,0 +1,8 @@
+C:\Documents and Settings\Irving Flores\Mis documentos\Visual Studio 2005\Projects\controlesCBRBLB\controlesCBRBLB\bin\Debug\controlesCBRBLB.exe
+C:\Documents and Settings\Irving Flores\Mis documentos\Visual Studio 2005\Projects\controlesCBRBLB\controlesCBRBLB\bin\Debug\controlesCBRBLB.pdb
+C:\Documents and Settings\Irving Flores\Mis documentos\Visual Studio 2005\Projects\controlesCBRBLB\controlesCBRBLB\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Irving Flores\Mis documentos\Visual Studio 2005\Projects\controlesCBRBLB\controlesCBRBLB\obj\Debug\controlesCBRBLB.Form1.resources
+C:\Documents and Settings\Irving Flores\Mis documentos\Visual Studio 2005\Projects\controlesCBRBLB\controlesCBRBLB\obj\Debug\controlesCBRBLB.Properties.Resources.resources
+C:\Documents and Settings\Irving Flores\Mis documentos\Visual Studio 2005\Projects\controlesCBRBLB\controlesCBRBLB\obj\Debug\controlesCBRBLB.csproj.GenerateResource.Cache
+C:\Documents and Settings\Irving Flores\Mis documentos\Visual Studio 2005\Projects\controlesCBRBLB\controlesCBRBLB\obj\Debug\controlesCBRBLB.exe
+C:\Documents and Settings\Irving Flores\Mis documentos\Visual Studio 2005\Projects\controlesCBRBLB\controlesCBRBLB\obj\Debug\controlesCBRBLB.pdb

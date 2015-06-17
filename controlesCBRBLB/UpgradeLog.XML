@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="controlesCBRBLB">
+</Property><Property Name="Archivo de la solución" Value="C:\Users\Albert\Desktop\C\Ejercicios\controlesCBRBLB\controlesCBRBLB.sln">
+</Property><Property Name="Archivo de opciones de usuario" Value="C:\Users\Albert\Desktop\C\Ejercicios\controlesCBRBLB\controlesCBRBLB.suo">
+</Property><Property Name="Date" Value="miércoles, 17 de junio de 2015">
+</Property><Property Name="Time" Value="17:15 p.m.">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="controlesCBRBLB.sln" Description="La copia C:\Users\Albert\Desktop\C\Ejercicios\controlesCBRBLB\Backup\controlesCBRBLB.sln del archivo se ha realizado correctamente">
+</Event><Event ErrorLevel="0" Project="" Source="controlesCBRBLB.suo" Description="La copia C:\Users\Albert\Desktop\C\Ejercicios\controlesCBRBLB\Backup\controlesCBRBLB.suo del archivo se ha realizado correctamente">
+</Event><Event ErrorLevel="0" Project="controlesCBRBLB" Source="controlesCBRBLB\controlesCBRBLB.csproj" Description="Se realizó correctamente la copia de seguridad del archivo de proyecto C:\Users\Albert\Desktop\C\Ejercicios\controlesCBRBLB\Backup\controlesCBRBLB\controlesCBRBLB.csproj">
+</Event><Event ErrorLevel="0" Project="controlesCBRBLB" Source="controlesCBRBLB\Form1.cs" Description="Se realizó correctamente la copia de seguridad del archivo C:\Users\Albert\Desktop\C\Ejercicios\controlesCBRBLB\Backup\controlesCBRBLB\Form1.cs">
+</Event><Event ErrorLevel="0" Project="controlesCBRBLB" Source="controlesCBRBLB\Form1.Designer.cs" Description="Se realizó correctamente la copia de seguridad del archivo C:\Users\Albert\Desktop\C\Ejercicios\controlesCBRBLB\Backup\controlesCBRBLB\Form1.Designer.cs">
+</Event><Event ErrorLevel="0" Project="controlesCBRBLB" Source="controlesCBRBLB\Program.cs" Description="Se realizó correctamente la copia de seguridad del archivo C:\Users\Albert\Desktop\C\Ejercicios\controlesCBRBLB\Backup\controlesCBRBLB\Program.cs">
+</Event><Event ErrorLevel="0" Project="controlesCBRBLB" Source="controlesCBRBLB\Properties\AssemblyInfo.cs" Description="Se realizó correctamente la copia de seguridad del archivo C:\Users\Albert\Desktop\C\Ejercicios\controlesCBRBLB\Backup\controlesCBRBLB\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="controlesCBRBLB" Source="controlesCBRBLB\Properties\Resources.Designer.cs" Description="Se realizó correctamente la copia de seguridad del archivo C:\Users\Albert\Desktop\C\Ejercicios\controlesCBRBLB\Backup\controlesCBRBLB\Properties\Resources.Designer.cs">
+</Event><Event ErrorLevel="0" Project="controlesCBRBLB" Source="controlesCBRBLB\Properties\Settings.Designer.cs" Description="Se realizó correctamente la copia de seguridad del archivo C:\Users\Albert\Desktop\C\Ejercicios\controlesCBRBLB\Backup\controlesCBRBLB\Properties\Settings.Designer.cs">
+</Event><Event ErrorLevel="0" Project="controlesCBRBLB" Source="controlesCBRBLB\Properties\Settings.settings" Description="Se realizó correctamente la copia de seguridad del archivo C:\Users\Albert\Desktop\C\Ejercicios\controlesCBRBLB\Backup\controlesCBRBLB\Properties\Settings.settings">
+</Event><Event ErrorLevel="0" Project="controlesCBRBLB" Source="controlesCBRBLB\Form1.resx" Description="Se realizó correctamente la copia de seguridad del archivo C:\Users\Albert\Desktop\C\Ejercicios\controlesCBRBLB\Backup\controlesCBRBLB\Form1.resx">
+</Event><Event ErrorLevel="0" Project="controlesCBRBLB" Source="controlesCBRBLB\Properties\Resources.resx" Description="Se realizó correctamente la copia de seguridad del archivo C:\Users\Albert\Desktop\C\Ejercicios\controlesCBRBLB\Backup\controlesCBRBLB\Properties\Resources.resx">
+</Event><Event ErrorLevel="1" Project="controlesCBRBLB" Source="controlesCBRBLB\controlesCBRBLB.csproj" Description="La versión de destino de su proyecto es .NET Framework 2.0 ó 3.0. Si el proyecto utiliza ensamblados que requieren una versión más reciente de .NET Framework, no se podrá compilar. Puede cambiar la versión de .NET Framework haciendo clic en Propiedades en el menú del proyecto y seleccionando una nueva versión en el cuadro desplegable '.NET Framework'. (En Visual Basic, haga clic en el botón 'Opciones avanzadas del compilador...' en la pestaña Compilar).">
+</Event><Event ErrorLevel="0" Project="controlesCBRBLB" Source="controlesCBRBLB\controlesCBRBLB.csproj" Description="Proyecto convertido correctamente">
+</Event><Event ErrorLevel="3" Project="controlesCBRBLB" Source="controlesCBRBLB\controlesCBRBLB.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="controlesCBRBLB.sln" Description="La solución se convirtió correctamente">
+</Event><Event ErrorLevel="3" Project="" Source="controlesCBRBLB.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="controlesCBRBLB" Source="controlesCBRBLB\controlesCBRBLB.csproj" Description="Examen completo: no es necesario actualizar los archivos de proyecto.">
+</Event></UpgradeLog>
