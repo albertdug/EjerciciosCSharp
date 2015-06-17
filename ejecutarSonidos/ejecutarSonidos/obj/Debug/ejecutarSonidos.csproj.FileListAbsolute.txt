@@ -1,0 +1,7 @@
+C:\Users\Albert\Desktop\C\Ejercicios\ejecutarSonidos\ejecutarSonidos\obj\Debug\ejecutarSonidos.exe
+C:\Users\Albert\Desktop\C\Ejercicios\ejecutarSonidos\ejecutarSonidos\obj\Debug\ejecutarSonidos.pdb
+C:\Users\Albert\Desktop\C\Ejercicios\ejecutarSonidos\ejecutarSonidos\bin\Debug\ejecutarSonidos.exe
+C:\Users\Albert\Desktop\C\Ejercicios\ejecutarSonidos\ejecutarSonidos\bin\Debug\ejecutarSonidos.pdb
+C:\Users\Albert\Desktop\C\Ejercicios\ejecutarSonidos\ejecutarSonidos\obj\Debug\ejecutarSonidos.Form1.resources
+C:\Users\Albert\Desktop\C\Ejercicios\ejecutarSonidos\ejecutarSonidos\obj\Debug\ejecutarSonidos.Properties.Resources.resources
+C:\Users\Albert\Desktop\C\Ejercicios\ejecutarSonidos\ejecutarSonidos\obj\Debug\ejecutarSonidos.csproj.GenerateResource.Cache
