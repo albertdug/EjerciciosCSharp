@@ -1,0 +1,7 @@
+C:\Users\Albert\Desktop\C\Ejercicios\cargarImagenPictureBox\cargarImagenPictureBox\obj\Debug\cargarImagenPictureBox.exe
+C:\Users\Albert\Desktop\C\Ejercicios\cargarImagenPictureBox\cargarImagenPictureBox\obj\Debug\cargarImagenPictureBox.pdb
+C:\Users\Albert\Desktop\C\Ejercicios\cargarImagenPictureBox\cargarImagenPictureBox\bin\Debug\cargarImagenPictureBox.exe
+C:\Users\Albert\Desktop\C\Ejercicios\cargarImagenPictureBox\cargarImagenPictureBox\bin\Debug\cargarImagenPictureBox.pdb
+C:\Users\Albert\Desktop\C\Ejercicios\cargarImagenPictureBox\cargarImagenPictureBox\obj\Debug\cargarImagenPictureBox.Form1.resources
+C:\Users\Albert\Desktop\C\Ejercicios\cargarImagenPictureBox\cargarImagenPictureBox\obj\Debug\cargarImagenPictureBox.Properties.Resources.resources
+C:\Users\Albert\Desktop\C\Ejercicios\cargarImagenPictureBox\cargarImagenPictureBox\obj\Debug\cargarImagenPictureBox.csproj.GenerateResource.Cache
