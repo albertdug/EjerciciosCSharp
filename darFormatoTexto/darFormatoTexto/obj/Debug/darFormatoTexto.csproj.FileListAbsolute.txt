@@ -1,0 +1,15 @@
+C:\Users\Irving\Documents\Visual Studio 2008\Projects\darFormatoTexto\darFormatoTexto\bin\Debug\darFormatoTexto.exe
+C:\Users\Irving\Documents\Visual Studio 2008\Projects\darFormatoTexto\darFormatoTexto\bin\Debug\darFormatoTexto.pdb
+C:\Users\Irving\Documents\Visual Studio 2008\Projects\darFormatoTexto\darFormatoTexto\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Irving\Documents\Visual Studio 2008\Projects\darFormatoTexto\darFormatoTexto\obj\Debug\darFormatoTexto.Form1.resources
+C:\Users\Irving\Documents\Visual Studio 2008\Projects\darFormatoTexto\darFormatoTexto\obj\Debug\darFormatoTexto.Properties.Resources.resources
+C:\Users\Irving\Documents\Visual Studio 2008\Projects\darFormatoTexto\darFormatoTexto\obj\Debug\darFormatoTexto.csproj.GenerateResource.Cache
+C:\Users\Irving\Documents\Visual Studio 2008\Projects\darFormatoTexto\darFormatoTexto\obj\Debug\darFormatoTexto.exe
+C:\Users\Irving\Documents\Visual Studio 2008\Projects\darFormatoTexto\darFormatoTexto\obj\Debug\darFormatoTexto.pdb
+C:\Users\Albert\Desktop\C\Ejercicios\darFormatoTexto\darFormatoTexto\obj\Debug\darFormatoTexto.exe
+C:\Users\Albert\Desktop\C\Ejercicios\darFormatoTexto\darFormatoTexto\obj\Debug\darFormatoTexto.pdb
+C:\Users\Albert\Desktop\C\Ejercicios\darFormatoTexto\darFormatoTexto\bin\Debug\darFormatoTexto.exe
+C:\Users\Albert\Desktop\C\Ejercicios\darFormatoTexto\darFormatoTexto\bin\Debug\darFormatoTexto.pdb
+C:\Users\Albert\Desktop\C\Ejercicios\darFormatoTexto\darFormatoTexto\obj\Debug\darFormatoTexto.Form1.resources
+C:\Users\Albert\Desktop\C\Ejercicios\darFormatoTexto\darFormatoTexto\obj\Debug\darFormatoTexto.Properties.Resources.resources
+C:\Users\Albert\Desktop\C\Ejercicios\darFormatoTexto\darFormatoTexto\obj\Debug\darFormatoTexto.csproj.GenerateResource.Cache
