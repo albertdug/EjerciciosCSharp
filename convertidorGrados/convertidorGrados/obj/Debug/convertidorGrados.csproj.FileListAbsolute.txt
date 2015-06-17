@@ -1,0 +1,7 @@
+C:\Users\Albert\Desktop\C\Ejercicios\convertidorGrados\convertidorGrados\obj\Debug\convertidorGrados.exe
+C:\Users\Albert\Desktop\C\Ejercicios\convertidorGrados\convertidorGrados\obj\Debug\convertidorGrados.pdb
+C:\Users\Albert\Desktop\C\Ejercicios\convertidorGrados\convertidorGrados\bin\Debug\convertidorGrados.exe
+C:\Users\Albert\Desktop\C\Ejercicios\convertidorGrados\convertidorGrados\bin\Debug\convertidorGrados.pdb
+C:\Users\Albert\Desktop\C\Ejercicios\convertidorGrados\convertidorGrados\obj\Debug\convertidorGrados.Form1.resources
+C:\Users\Albert\Desktop\C\Ejercicios\convertidorGrados\convertidorGrados\obj\Debug\convertidorGrados.Properties.Resources.resources
+C:\Users\Albert\Desktop\C\Ejercicios\convertidorGrados\convertidorGrados\obj\Debug\convertidorGrados.csproj.GenerateResource.Cache
