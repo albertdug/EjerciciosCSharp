@@ -1,0 +1,8 @@
+C:\Documents and Settings\Irving Flores\Mis documentos\Visual Studio 2005\Projects\formasdeMostrarMensajes\formasdeMostrarMensajes\bin\Debug\formasdeMostrarMensajes.exe
+C:\Documents and Settings\Irving Flores\Mis documentos\Visual Studio 2005\Projects\formasdeMostrarMensajes\formasdeMostrarMensajes\bin\Debug\formasdeMostrarMensajes.pdb
+C:\Documents and Settings\Irving Flores\Mis documentos\Visual Studio 2005\Projects\formasdeMostrarMensajes\formasdeMostrarMensajes\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Irving Flores\Mis documentos\Visual Studio 2005\Projects\formasdeMostrarMensajes\formasdeMostrarMensajes\obj\Debug\formasdeMostrarMensajes.Form1.resources
+C:\Documents and Settings\Irving Flores\Mis documentos\Visual Studio 2005\Projects\formasdeMostrarMensajes\formasdeMostrarMensajes\obj\Debug\formasdeMostrarMensajes.Properties.Resources.resources
+C:\Documents and Settings\Irving Flores\Mis documentos\Visual Studio 2005\Projects\formasdeMostrarMensajes\formasdeMostrarMensajes\obj\Debug\formasdeMostrarMensajes.csproj.GenerateResource.Cache
+C:\Documents and Settings\Irving Flores\Mis documentos\Visual Studio 2005\Projects\formasdeMostrarMensajes\formasdeMostrarMensajes\obj\Debug\formasdeMostrarMensajes.exe
+C:\Documents and Settings\Irving Flores\Mis documentos\Visual Studio 2005\Projects\formasdeMostrarMensajes\formasdeMostrarMensajes\obj\Debug\formasdeMostrarMensajes.pdb

@@ -1,0 +1,7 @@
+C:\Users\Albert\Desktop\C\Ejercicios\formasdeMostrarMensajes\formasdeMostrarMensajes\obj\Debug\formasdeMostrarMensajes.exe
+C:\Users\Albert\Desktop\C\Ejercicios\formasdeMostrarMensajes\formasdeMostrarMensajes\obj\Debug\formasdeMostrarMensajes.pdb
+C:\Users\Albert\Desktop\C\Ejercicios\formasdeMostrarMensajes\formasdeMostrarMensajes\bin\Debug\formasdeMostrarMensajes.exe
+C:\Users\Albert\Desktop\C\Ejercicios\formasdeMostrarMensajes\formasdeMostrarMensajes\bin\Debug\formasdeMostrarMensajes.pdb
+C:\Users\Albert\Desktop\C\Ejercicios\formasdeMostrarMensajes\formasdeMostrarMensajes\obj\Debug\formasdeMostrarMensajes.Form1.resources
+C:\Users\Albert\Desktop\C\Ejercicios\formasdeMostrarMensajes\formasdeMostrarMensajes\obj\Debug\formasdeMostrarMensajes.Properties.Resources.resources
+C:\Users\Albert\Desktop\C\Ejercicios\formasdeMostrarMensajes\formasdeMostrarMensajes\obj\Debug\formasdeMostrarMensajes.csproj.GenerateResource.Cache
