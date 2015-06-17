@@ -1,0 +1,8 @@
+C:\Documents and Settings\Irving Flores\Mis documentos\Visual Studio 2005\Projects\miniStock\miniStock\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Irving Flores\Mis documentos\Visual Studio 2005\Projects\miniStock\miniStock\obj\Debug\miniStock.Form1.resources
+C:\Documents and Settings\Irving Flores\Mis documentos\Visual Studio 2005\Projects\miniStock\miniStock\obj\Debug\miniStock.Properties.Resources.resources
+C:\Documents and Settings\Irving Flores\Mis documentos\Visual Studio 2005\Projects\miniStock\miniStock\obj\Debug\miniStock.csproj.GenerateResource.Cache
+C:\Documents and Settings\Irving Flores\Mis documentos\Visual Studio 2005\Projects\miniStock\miniStock\bin\Debug\miniStock.exe
+C:\Documents and Settings\Irving Flores\Mis documentos\Visual Studio 2005\Projects\miniStock\miniStock\bin\Debug\miniStock.pdb
+C:\Documents and Settings\Irving Flores\Mis documentos\Visual Studio 2005\Projects\miniStock\miniStock\obj\Debug\miniStock.exe
+C:\Documents and Settings\Irving Flores\Mis documentos\Visual Studio 2005\Projects\miniStock\miniStock\obj\Debug\miniStock.pdb

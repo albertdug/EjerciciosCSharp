@@ -1,0 +1,7 @@
+C:\Users\Albert\Desktop\C\Ejercicios\miniStock\miniStock\obj\Debug\miniStock.exe
+C:\Users\Albert\Desktop\C\Ejercicios\miniStock\miniStock\obj\Debug\miniStock.pdb
+C:\Users\Albert\Desktop\C\Ejercicios\miniStock\miniStock\bin\Debug\miniStock.exe
+C:\Users\Albert\Desktop\C\Ejercicios\miniStock\miniStock\bin\Debug\miniStock.pdb
+C:\Users\Albert\Desktop\C\Ejercicios\miniStock\miniStock\obj\Debug\miniStock.Form1.resources
+C:\Users\Albert\Desktop\C\Ejercicios\miniStock\miniStock\obj\Debug\miniStock.Properties.Resources.resources
+C:\Users\Albert\Desktop\C\Ejercicios\miniStock\miniStock\obj\Debug\miniStock.csproj.GenerateResource.Cache
