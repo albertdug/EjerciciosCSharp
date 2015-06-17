@@ -1,0 +1,15 @@
+C:\Users\Irving\Documents\Visual Studio 2008\Projects\convertirStringaInt\convertirStringaInt\bin\Debug\convertirStringaInt.exe
+C:\Users\Irving\Documents\Visual Studio 2008\Projects\convertirStringaInt\convertirStringaInt\bin\Debug\convertirStringaInt.pdb
+C:\Users\Irving\Documents\Visual Studio 2008\Projects\convertirStringaInt\convertirStringaInt\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Irving\Documents\Visual Studio 2008\Projects\convertirStringaInt\convertirStringaInt\obj\Debug\convertirStringaInt.Form1.resources
+C:\Users\Irving\Documents\Visual Studio 2008\Projects\convertirStringaInt\convertirStringaInt\obj\Debug\convertirStringaInt.Properties.Resources.resources
+C:\Users\Irving\Documents\Visual Studio 2008\Projects\convertirStringaInt\convertirStringaInt\obj\Debug\convertirStringaInt.csproj.GenerateResource.Cache
+C:\Users\Irving\Documents\Visual Studio 2008\Projects\convertirStringaInt\convertirStringaInt\obj\Debug\convertirStringaInt.exe
+C:\Users\Irving\Documents\Visual Studio 2008\Projects\convertirStringaInt\convertirStringaInt\obj\Debug\convertirStringaInt.pdb
+C:\Users\Albert\Desktop\C\Ejercicios\convertirStringaInt\convertirStringaInt\obj\Debug\convertirStringaInt.exe
+C:\Users\Albert\Desktop\C\Ejercicios\convertirStringaInt\convertirStringaInt\obj\Debug\convertirStringaInt.pdb
+C:\Users\Albert\Desktop\C\Ejercicios\convertirStringaInt\convertirStringaInt\bin\Debug\convertirStringaInt.exe
+C:\Users\Albert\Desktop\C\Ejercicios\convertirStringaInt\convertirStringaInt\bin\Debug\convertirStringaInt.pdb
+C:\Users\Albert\Desktop\C\Ejercicios\convertirStringaInt\convertirStringaInt\obj\Debug\convertirStringaInt.Form1.resources
+C:\Users\Albert\Desktop\C\Ejercicios\convertirStringaInt\convertirStringaInt\obj\Debug\convertirStringaInt.Properties.Resources.resources
+C:\Users\Albert\Desktop\C\Ejercicios\convertirStringaInt\convertirStringaInt\obj\Debug\convertirStringaInt.csproj.GenerateResource.Cache

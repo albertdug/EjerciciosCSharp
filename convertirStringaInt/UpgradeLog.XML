@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="convertirStringaInt">
+</Property><Property Name="Archivo de la solución" Value="C:\Users\Albert\Desktop\C\Ejercicios\convertirStringaInt\convertirStringaInt.sln">
+</Property><Property Name="Date" Value="miércoles, 17 de junio de 2015">
+</Property><Property Name="Time" Value="17:22 p.m.">
+</Property></Properties><Event ErrorLevel="0" Project="convertirStringaInt" Source="convertirStringaInt\convertirStringaInt.csproj" Description="Proyecto convertido correctamente">
+</Event><Event ErrorLevel="3" Project="convertirStringaInt" Source="convertirStringaInt\convertirStringaInt.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="convertirStringaInt.sln" Description="La solución se convirtió correctamente">
+</Event><Event ErrorLevel="3" Project="" Source="convertirStringaInt.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="convertirStringaInt" Source="convertirStringaInt\convertirStringaInt.csproj" Description="Examen completo: no es necesario actualizar los archivos de proyecto.">
+</Event></UpgradeLog>
