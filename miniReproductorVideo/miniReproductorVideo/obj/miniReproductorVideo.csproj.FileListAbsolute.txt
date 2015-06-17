@@ -1,0 +1,8 @@
+C:\Documents and Settings\Irving Flores\Mis documentos\Visual Studio 2005\Projects\miniReproductorVideo\miniReproductorVideo\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Irving Flores\Mis documentos\Visual Studio 2005\Projects\miniReproductorVideo\miniReproductorVideo\obj\Debug\miniReproductorVideo.Form1.resources
+C:\Documents and Settings\Irving Flores\Mis documentos\Visual Studio 2005\Projects\miniReproductorVideo\miniReproductorVideo\obj\Debug\miniReproductorVideo.Properties.Resources.resources
+C:\Documents and Settings\Irving Flores\Mis documentos\Visual Studio 2005\Projects\miniReproductorVideo\miniReproductorVideo\obj\Debug\miniReproductorVideo.csproj.GenerateResource.Cache
+C:\Documents and Settings\Irving Flores\Mis documentos\Visual Studio 2005\Projects\miniReproductorVideo\miniReproductorVideo\bin\Debug\miniReproductorVideo.exe
+C:\Documents and Settings\Irving Flores\Mis documentos\Visual Studio 2005\Projects\miniReproductorVideo\miniReproductorVideo\bin\Debug\miniReproductorVideo.pdb
+C:\Documents and Settings\Irving Flores\Mis documentos\Visual Studio 2005\Projects\miniReproductorVideo\miniReproductorVideo\obj\Debug\miniReproductorVideo.exe
+C:\Documents and Settings\Irving Flores\Mis documentos\Visual Studio 2005\Projects\miniReproductorVideo\miniReproductorVideo\obj\Debug\miniReproductorVideo.pdb

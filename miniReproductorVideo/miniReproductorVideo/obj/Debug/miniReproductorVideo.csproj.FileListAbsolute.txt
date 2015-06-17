@@ -1,0 +1,7 @@
+C:\Users\Albert\Desktop\C\Ejercicios\miniReproductorVideo\miniReproductorVideo\obj\Debug\miniReproductorVideo.exe
+C:\Users\Albert\Desktop\C\Ejercicios\miniReproductorVideo\miniReproductorVideo\obj\Debug\miniReproductorVideo.pdb
+C:\Users\Albert\Desktop\C\Ejercicios\miniReproductorVideo\miniReproductorVideo\bin\Debug\miniReproductorVideo.exe
+C:\Users\Albert\Desktop\C\Ejercicios\miniReproductorVideo\miniReproductorVideo\bin\Debug\miniReproductorVideo.pdb
+C:\Users\Albert\Desktop\C\Ejercicios\miniReproductorVideo\miniReproductorVideo\obj\Debug\miniReproductorVideo.Form1.resources
+C:\Users\Albert\Desktop\C\Ejercicios\miniReproductorVideo\miniReproductorVideo\obj\Debug\miniReproductorVideo.Properties.Resources.resources
+C:\Users\Albert\Desktop\C\Ejercicios\miniReproductorVideo\miniReproductorVideo\obj\Debug\miniReproductorVideo.csproj.GenerateResource.Cache
