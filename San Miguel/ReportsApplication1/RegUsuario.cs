@@ -63,7 +63,7 @@ namespace ReportsApplication1
             }
             else
             {
-                MessageBox.Show("Nuevo registro...");
+                MessageBox.Show("Nuevo registro..");
                 button1.Enabled = true;
                 button2.Enabled = false;
                 button3.Enabled = false;
