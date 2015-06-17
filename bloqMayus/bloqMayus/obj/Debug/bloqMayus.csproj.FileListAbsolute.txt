@@ -1,0 +1,22 @@
+C:\Users\Irving\Documents\Visual Studio 2008\Projects\bloqMayus\bloqMayus\bin\Debug\bloqMayus.exe
+C:\Users\Irving\Documents\Visual Studio 2008\Projects\bloqMayus\bloqMayus\bin\Debug\bloqMayus.pdb
+C:\Users\Irving\Documents\Visual Studio 2008\Projects\bloqMayus\bloqMayus\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Irving\Documents\Visual Studio 2008\Projects\bloqMayus\bloqMayus\obj\Debug\bloqMayus.Form1.resources
+C:\Users\Irving\Documents\Visual Studio 2008\Projects\bloqMayus\bloqMayus\obj\Debug\bloqMayus.Properties.Resources.resources
+C:\Users\Irving\Documents\Visual Studio 2008\Projects\bloqMayus\bloqMayus\obj\Debug\bloqMayus.csproj.GenerateResource.Cache
+C:\Users\Irving\Documents\Visual Studio 2008\Projects\bloqMayus\bloqMayus\obj\Debug\bloqMayus.exe
+C:\Users\Irving\Documents\Visual Studio 2008\Projects\bloqMayus\bloqMayus\obj\Debug\bloqMayus.pdb
+C:\Users\Albert\Desktop\C\Proyectos C# Maniax\bloqMayus\bloqMayus\obj\Debug\bloqMayus.exe
+C:\Users\Albert\Desktop\C\Proyectos C# Maniax\bloqMayus\bloqMayus\obj\Debug\bloqMayus.pdb
+C:\Users\Albert\Desktop\C\Proyectos C# Maniax\bloqMayus\bloqMayus\bin\Debug\bloqMayus.exe
+C:\Users\Albert\Desktop\C\Proyectos C# Maniax\bloqMayus\bloqMayus\bin\Debug\bloqMayus.pdb
+C:\Users\Albert\Desktop\C\Proyectos C# Maniax\bloqMayus\bloqMayus\obj\Debug\bloqMayus.Form1.resources
+C:\Users\Albert\Desktop\C\Proyectos C# Maniax\bloqMayus\bloqMayus\obj\Debug\bloqMayus.Properties.Resources.resources
+C:\Users\Albert\Desktop\C\Proyectos C# Maniax\bloqMayus\bloqMayus\obj\Debug\bloqMayus.csproj.GenerateResource.Cache
+C:\Users\Albert\Desktop\C\Ejercicios\bloqMayus\bloqMayus\obj\Debug\bloqMayus.exe
+C:\Users\Albert\Desktop\C\Ejercicios\bloqMayus\bloqMayus\obj\Debug\bloqMayus.pdb
+C:\Users\Albert\Desktop\C\Ejercicios\bloqMayus\bloqMayus\bin\Debug\bloqMayus.exe
+C:\Users\Albert\Desktop\C\Ejercicios\bloqMayus\bloqMayus\bin\Debug\bloqMayus.pdb
+C:\Users\Albert\Desktop\C\Ejercicios\bloqMayus\bloqMayus\obj\Debug\bloqMayus.Form1.resources
+C:\Users\Albert\Desktop\C\Ejercicios\bloqMayus\bloqMayus\obj\Debug\bloqMayus.Properties.Resources.resources
+C:\Users\Albert\Desktop\C\Ejercicios\bloqMayus\bloqMayus\obj\Debug\bloqMayus.csproj.GenerateResource.Cache
