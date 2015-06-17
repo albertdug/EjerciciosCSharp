@@ -1,0 +1,8 @@
+C:\Documents and Settings\Irving Flores\Mis documentos\Visual Studio 2005\Projects\evitarCierreAplicacion\evitarCierreAplicacion\bin\Debug\evitarCierreAplicacion.exe
+C:\Documents and Settings\Irving Flores\Mis documentos\Visual Studio 2005\Projects\evitarCierreAplicacion\evitarCierreAplicacion\bin\Debug\evitarCierreAplicacion.pdb
+C:\Documents and Settings\Irving Flores\Mis documentos\Visual Studio 2005\Projects\evitarCierreAplicacion\evitarCierreAplicacion\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Irving Flores\Mis documentos\Visual Studio 2005\Projects\evitarCierreAplicacion\evitarCierreAplicacion\obj\Debug\evitarCierreAplicacion.Form1.resources
+C:\Documents and Settings\Irving Flores\Mis documentos\Visual Studio 2005\Projects\evitarCierreAplicacion\evitarCierreAplicacion\obj\Debug\evitarCierreAplicacion.Properties.Resources.resources
+C:\Documents and Settings\Irving Flores\Mis documentos\Visual Studio 2005\Projects\evitarCierreAplicacion\evitarCierreAplicacion\obj\Debug\evitarCierreAplicacion.csproj.GenerateResource.Cache
+C:\Documents and Settings\Irving Flores\Mis documentos\Visual Studio 2005\Projects\evitarCierreAplicacion\evitarCierreAplicacion\obj\Debug\evitarCierreAplicacion.exe
+C:\Documents and Settings\Irving Flores\Mis documentos\Visual Studio 2005\Projects\evitarCierreAplicacion\evitarCierreAplicacion\obj\Debug\evitarCierreAplicacion.pdb

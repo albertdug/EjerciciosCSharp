@@ -1,0 +1,7 @@
+C:\Users\Albert\Desktop\C\Ejercicios\evitarCierreAplicacion\evitarCierreAplicacion\obj\Debug\evitarCierreAplicacion.exe
+C:\Users\Albert\Desktop\C\Ejercicios\evitarCierreAplicacion\evitarCierreAplicacion\obj\Debug\evitarCierreAplicacion.pdb
+C:\Users\Albert\Desktop\C\Ejercicios\evitarCierreAplicacion\evitarCierreAplicacion\bin\Debug\evitarCierreAplicacion.exe
+C:\Users\Albert\Desktop\C\Ejercicios\evitarCierreAplicacion\evitarCierreAplicacion\bin\Debug\evitarCierreAplicacion.pdb
+C:\Users\Albert\Desktop\C\Ejercicios\evitarCierreAplicacion\evitarCierreAplicacion\obj\Debug\evitarCierreAplicacion.Form1.resources
+C:\Users\Albert\Desktop\C\Ejercicios\evitarCierreAplicacion\evitarCierreAplicacion\obj\Debug\evitarCierreAplicacion.Properties.Resources.resources
+C:\Users\Albert\Desktop\C\Ejercicios\evitarCierreAplicacion\evitarCierreAplicacion\obj\Debug\evitarCierreAplicacion.csproj.GenerateResource.Cache
