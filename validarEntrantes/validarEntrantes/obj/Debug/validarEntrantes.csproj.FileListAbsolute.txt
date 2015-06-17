@@ -1,0 +1,7 @@
+C:\Users\Albert\Desktop\C\Ejercicios\validarEntrantes\validarEntrantes\obj\Debug\validarEntrantes.exe
+C:\Users\Albert\Desktop\C\Ejercicios\validarEntrantes\validarEntrantes\obj\Debug\validarEntrantes.pdb
+C:\Users\Albert\Desktop\C\Ejercicios\validarEntrantes\validarEntrantes\bin\Debug\validarEntrantes.exe
+C:\Users\Albert\Desktop\C\Ejercicios\validarEntrantes\validarEntrantes\bin\Debug\validarEntrantes.pdb
+C:\Users\Albert\Desktop\C\Ejercicios\validarEntrantes\validarEntrantes\obj\Debug\validarEntrantes.Form1.resources
+C:\Users\Albert\Desktop\C\Ejercicios\validarEntrantes\validarEntrantes\obj\Debug\validarEntrantes.Properties.Resources.resources
+C:\Users\Albert\Desktop\C\Ejercicios\validarEntrantes\validarEntrantes\obj\Debug\validarEntrantes.csproj.GenerateResource.Cache

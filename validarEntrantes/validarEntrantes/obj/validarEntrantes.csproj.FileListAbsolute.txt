@@ -1,0 +1,8 @@
+C:\Documents and Settings\Irving Flores\Mis documentos\Visual Studio 2005\Projects\validarEntrantes\validarEntrantes\bin\Debug\validarEntrantes.exe
+C:\Documents and Settings\Irving Flores\Mis documentos\Visual Studio 2005\Projects\validarEntrantes\validarEntrantes\bin\Debug\validarEntrantes.pdb
+C:\Documents and Settings\Irving Flores\Mis documentos\Visual Studio 2005\Projects\validarEntrantes\validarEntrantes\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Irving Flores\Mis documentos\Visual Studio 2005\Projects\validarEntrantes\validarEntrantes\obj\Debug\validarEntrantes.Form1.resources
+C:\Documents and Settings\Irving Flores\Mis documentos\Visual Studio 2005\Projects\validarEntrantes\validarEntrantes\obj\Debug\validarEntrantes.Properties.Resources.resources
+C:\Documents and Settings\Irving Flores\Mis documentos\Visual Studio 2005\Projects\validarEntrantes\validarEntrantes\obj\Debug\validarEntrantes.csproj.GenerateResource.Cache
+C:\Documents and Settings\Irving Flores\Mis documentos\Visual Studio 2005\Projects\validarEntrantes\validarEntrantes\obj\Debug\validarEntrantes.exe
+C:\Documents and Settings\Irving Flores\Mis documentos\Visual Studio 2005\Projects\validarEntrantes\validarEntrantes\obj\Debug\validarEntrantes.pdb
