@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="modificarPropiedadesControles">
+</Property><Property Name="Archivo de la solución" Value="C:\Users\Albert\Desktop\C\Ejercicios\modificarPropiedadesControles\modificarPropiedadesControles.sln">
+</Property><Property Name="Date" Value="miércoles, 17 de junio de 2015">
+</Property><Property Name="Time" Value="17:59 p.m.">
+</Property></Properties><Event ErrorLevel="1" Project="modificarPropiedadesControles" Source="modificarPropiedadesControles\modificarPropiedadesControles.csproj" Description="La versión de destino de su proyecto es .NET Framework 2.0 ó 3.0. Si el proyecto utiliza ensamblados que requieren una versión más reciente de .NET Framework, no se podrá compilar. Puede cambiar la versión de .NET Framework haciendo clic en Propiedades en el menú del proyecto y seleccionando una nueva versión en el cuadro desplegable '.NET Framework'. (En Visual Basic, haga clic en el botón 'Opciones avanzadas del compilador...' en la pestaña Compilar).">
+</Event><Event ErrorLevel="0" Project="modificarPropiedadesControles" Source="modificarPropiedadesControles\modificarPropiedadesControles.csproj" Description="Proyecto convertido correctamente">
+</Event><Event ErrorLevel="3" Project="modificarPropiedadesControles" Source="modificarPropiedadesControles\modificarPropiedadesControles.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="modificarPropiedadesControles.sln" Description="La solución se convirtió correctamente">
+</Event><Event ErrorLevel="3" Project="" Source="modificarPropiedadesControles.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="modificarPropiedadesControles" Source="modificarPropiedadesControles\modificarPropiedadesControles.csproj" Description="Examen completo: no es necesario actualizar los archivos de proyecto.">
+</Event></UpgradeLog>

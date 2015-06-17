@@ -1,0 +1,7 @@
+C:\Users\Albert\Desktop\C\Ejercicios\modificarPropiedadesControles\modificarPropiedadesControles\bin\Debug\modificarPropiedadesControles.exe
+C:\Users\Albert\Desktop\C\Ejercicios\modificarPropiedadesControles\modificarPropiedadesControles\bin\Debug\modificarPropiedadesControles.pdb
+C:\Users\Albert\Desktop\C\Ejercicios\modificarPropiedadesControles\modificarPropiedadesControles\obj\Debug\modificarPropiedadesControles.Form1.resources
+C:\Users\Albert\Desktop\C\Ejercicios\modificarPropiedadesControles\modificarPropiedadesControles\obj\Debug\modificarPropiedadesControles.Properties.Resources.resources
+C:\Users\Albert\Desktop\C\Ejercicios\modificarPropiedadesControles\modificarPropiedadesControles\obj\Debug\modificarPropiedadesControles.csproj.GenerateResource.Cache
+C:\Users\Albert\Desktop\C\Ejercicios\modificarPropiedadesControles\modificarPropiedadesControles\obj\Debug\modificarPropiedadesControles.exe
+C:\Users\Albert\Desktop\C\Ejercicios\modificarPropiedadesControles\modificarPropiedadesControles\obj\Debug\modificarPropiedadesControles.pdb

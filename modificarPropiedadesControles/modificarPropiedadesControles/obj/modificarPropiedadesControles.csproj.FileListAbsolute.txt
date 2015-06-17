@@ -1,0 +1,8 @@
+C:\Documents and Settings\Irving Flores\Mis documentos\Visual Studio 2005\Projects\modificarPropiedadesControles\modificarPropiedadesControles\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Irving Flores\Mis documentos\Visual Studio 2005\Projects\modificarPropiedadesControles\modificarPropiedadesControles\obj\Debug\modificarPropiedadesControles.Form1.resources
+C:\Documents and Settings\Irving Flores\Mis documentos\Visual Studio 2005\Projects\modificarPropiedadesControles\modificarPropiedadesControles\obj\Debug\modificarPropiedadesControles.Properties.Resources.resources
+C:\Documents and Settings\Irving Flores\Mis documentos\Visual Studio 2005\Projects\modificarPropiedadesControles\modificarPropiedadesControles\obj\Debug\modificarPropiedadesControles.csproj.GenerateResource.Cache
+C:\Documents and Settings\Irving Flores\Mis documentos\Visual Studio 2005\Projects\modificarPropiedadesControles\modificarPropiedadesControles\bin\Debug\modificarPropiedadesControles.exe
+C:\Documents and Settings\Irving Flores\Mis documentos\Visual Studio 2005\Projects\modificarPropiedadesControles\modificarPropiedadesControles\bin\Debug\modificarPropiedadesControles.pdb
+C:\Documents and Settings\Irving Flores\Mis documentos\Visual Studio 2005\Projects\modificarPropiedadesControles\modificarPropiedadesControles\obj\Debug\modificarPropiedadesControles.exe
+C:\Documents and Settings\Irving Flores\Mis documentos\Visual Studio 2005\Projects\modificarPropiedadesControles\modificarPropiedadesControles\obj\Debug\modificarPropiedadesControles.pdb
