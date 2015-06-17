@@ -1,0 +1,7 @@
+C:\Users\Albert\Desktop\C\Ejercicios\usarValorDateTimePicker\usarValorDateTimePicker\obj\Debug\usarValorDateTimePicker.exe
+C:\Users\Albert\Desktop\C\Ejercicios\usarValorDateTimePicker\usarValorDateTimePicker\obj\Debug\usarValorDateTimePicker.pdb
+C:\Users\Albert\Desktop\C\Ejercicios\usarValorDateTimePicker\usarValorDateTimePicker\bin\Debug\usarValorDateTimePicker.exe
+C:\Users\Albert\Desktop\C\Ejercicios\usarValorDateTimePicker\usarValorDateTimePicker\bin\Debug\usarValorDateTimePicker.pdb
+C:\Users\Albert\Desktop\C\Ejercicios\usarValorDateTimePicker\usarValorDateTimePicker\obj\Debug\usarValorDateTimePicker.Form1.resources
+C:\Users\Albert\Desktop\C\Ejercicios\usarValorDateTimePicker\usarValorDateTimePicker\obj\Debug\usarValorDateTimePicker.Properties.Resources.resources
+C:\Users\Albert\Desktop\C\Ejercicios\usarValorDateTimePicker\usarValorDateTimePicker\obj\Debug\usarValorDateTimePicker.csproj.GenerateResource.Cache
