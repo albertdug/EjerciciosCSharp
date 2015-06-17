@@ -1,0 +1,42 @@
+C:\Users\SANCHEZ\AppData\Local\Temporary Projects\Sistema_Ventas_Garay\bin\Debug\Sistema_Ventas_Garay.exe
+C:\Users\SANCHEZ\AppData\Local\Temporary Projects\Sistema_Ventas_Garay\bin\Debug\Sistema_Ventas_Garay.pdb
+C:\Users\SANCHEZ\AppData\Local\Temporary Projects\Sistema_Ventas_Garay\obj\x86\Debug\Sistema_Ventas_Garay.Form1.resources
+C:\Users\SANCHEZ\AppData\Local\Temporary Projects\Sistema_Ventas_Garay\obj\x86\Debug\Sistema_Ventas_Garay.Properties.Resources.resources
+C:\Users\SANCHEZ\AppData\Local\Temporary Projects\Sistema_Ventas_Garay\obj\x86\Debug\Sistema_Ventas_Garay.csproj.GenerateResource.Cache
+C:\Users\SANCHEZ\AppData\Local\Temporary Projects\Sistema_Ventas_Garay\obj\x86\Debug\Sistema_Ventas_Garay.exe
+C:\Users\SANCHEZ\AppData\Local\Temporary Projects\Sistema_Ventas_Garay\obj\x86\Debug\Sistema_Ventas_Garay.pdb
+C:\Users\SANCHEZ\AppData\Local\Temporary Projects\Sistema_Ventas_Garay\obj\x86\Debug\Sistema_Ventas_Garay.Sistema.resources
+C:\Users\SANCHEZ\AppData\Local\Temporary Projects\Sistema_Ventas_Garay\obj\x86\Debug\Sistema_Ventas_Garay.Usuarios.resources
+C:\Users\SANCHEZ\AppData\Local\Temporary Projects\Sistema_Ventas_Garay\obj\x86\Debug\Sistema_Ventas_Garay.Productos.resources
+C:\Users\SANCHEZ\documents\visual studio 2010\Projects\Sistema_Ventas_Garay\Sistema_Ventas_Garay\obj\x86\Debug\Sistema_Ventas_Garay.exe
+C:\Users\SANCHEZ\documents\visual studio 2010\Projects\Sistema_Ventas_Garay\Sistema_Ventas_Garay\obj\x86\Debug\Sistema_Ventas_Garay.pdb
+G:\garay\Sistema_Ventas_Garay\Sistema_Ventas_Garay\obj\x86\Debug\Sistema_Ventas_Garay.exe
+G:\garay\Sistema_Ventas_Garay\Sistema_Ventas_Garay\obj\x86\Debug\Sistema_Ventas_Garay.pdb
+G:\garay\Sistema_Ventas_Garay\Sistema_Ventas_Garay\bin\Debug\Sistema_Ventas_Garay.exe
+G:\garay\Sistema_Ventas_Garay\Sistema_Ventas_Garay\bin\Debug\Sistema_Ventas_Garay.pdb
+G:\garay\Sistema_Ventas_Garay\Sistema_Ventas_Garay\obj\x86\Debug\Sistema_Ventas_Garay.Form1.resources
+G:\garay\Sistema_Ventas_Garay\Sistema_Ventas_Garay\obj\x86\Debug\Sistema_Ventas_Garay.Productos.resources
+G:\garay\Sistema_Ventas_Garay\Sistema_Ventas_Garay\obj\x86\Debug\Sistema_Ventas_Garay.Properties.Resources.resources
+G:\garay\Sistema_Ventas_Garay\Sistema_Ventas_Garay\obj\x86\Debug\Sistema_Ventas_Garay.Sistema.resources
+G:\garay\Sistema_Ventas_Garay\Sistema_Ventas_Garay\obj\x86\Debug\Sistema_Ventas_Garay.Usuarios.resources
+G:\garay\Sistema_Ventas_Garay\Sistema_Ventas_Garay\obj\x86\Debug\Sistema_Ventas_Garay.csproj.GenerateResource.Cache
+G:\garay\Sistema_Ventas_Garay\Sistema_Ventas_Garay\obj\x86\Debug\Sistema_Ventas_Garay.Clientes.resources
+F:\garay\Sistema_Ventas_Garay\Sistema_Ventas_Garay\obj\x86\Debug\Sistema_Ventas_Garay.exe
+F:\garay\Sistema_Ventas_Garay\Sistema_Ventas_Garay\obj\x86\Debug\Sistema_Ventas_Garay.pdb
+C:\Users\SANCHEZ\Desktop\Sistema para Principantes\Sistema_Ventas_Garay\Sistema_Ventas_Garay\obj\x86\Debug\Sistema_Ventas_Garay.exe
+C:\Users\SANCHEZ\Desktop\Sistema para Principantes\Sistema_Ventas_Garay\Sistema_Ventas_Garay\obj\x86\Debug\Sistema_Ventas_Garay.pdb
+F:\Sistema para Principantes\Sistema para Principantes\Sistema_Ventas_Garay\Sistema_Ventas_Garay\obj\x86\Debug\Sistema_Ventas_Garay.exe
+F:\Sistema para Principantes\Sistema para Principantes\Sistema_Ventas_Garay\Sistema_Ventas_Garay\obj\x86\Debug\Sistema_Ventas_Garay.pdb
+F:\Sistema para Principantes\Sistema para Principantes\Sistema_Ventas_Garay\Sistema_Ventas_Garay\bin\Debug\Sistema_Ventas_Garay.exe
+F:\Sistema para Principantes\Sistema para Principantes\Sistema_Ventas_Garay\Sistema_Ventas_Garay\bin\Debug\Sistema_Ventas_Garay.pdb
+F:\Sistema para Principantes\Sistema para Principantes\Sistema_Ventas_Garay\Sistema_Ventas_Garay\obj\x86\Debug\Sistema_Ventas_Garay.Clientes.resources
+F:\Sistema para Principantes\Sistema para Principantes\Sistema_Ventas_Garay\Sistema_Ventas_Garay\obj\x86\Debug\Sistema_Ventas_Garay.Form1.resources
+F:\Sistema para Principantes\Sistema para Principantes\Sistema_Ventas_Garay\Sistema_Ventas_Garay\obj\x86\Debug\Sistema_Ventas_Garay.Productos.resources
+F:\Sistema para Principantes\Sistema para Principantes\Sistema_Ventas_Garay\Sistema_Ventas_Garay\obj\x86\Debug\Sistema_Ventas_Garay.Properties.Resources.resources
+F:\Sistema para Principantes\Sistema para Principantes\Sistema_Ventas_Garay\Sistema_Ventas_Garay\obj\x86\Debug\Sistema_Ventas_Garay.Sistema.resources
+F:\Sistema para Principantes\Sistema para Principantes\Sistema_Ventas_Garay\Sistema_Ventas_Garay\obj\x86\Debug\Sistema_Ventas_Garay.Usuarios.resources
+F:\Sistema para Principantes\Sistema para Principantes\Sistema_Ventas_Garay\Sistema_Ventas_Garay\obj\x86\Debug\Sistema_Ventas_Garay.csproj.GenerateResource.Cache
+C:\Users\Albert\Desktop\C\Ejercicios\Sistema para Principantes\Sistema para Principantes\Sistema_Ventas_Garay\Sistema_Ventas_Garay\obj\x86\Debug\Sistema_Ventas_Garay.exe
+C:\Users\Albert\Desktop\C\Ejercicios\Sistema para Principantes\Sistema para Principantes\Sistema_Ventas_Garay\Sistema_Ventas_Garay\obj\x86\Debug\Sistema_Ventas_Garay.pdb
+C:\Users\Albert\Desktop\C\Ejercicios\Sistema Basico de Ventas\Sistema Basico de Ventas\Sistema_Ventas_Garay\Sistema_Ventas_Garay\obj\x86\Debug\Sistema_Ventas_Garay.exe
+C:\Users\Albert\Desktop\C\Ejercicios\Sistema Basico de Ventas\Sistema Basico de Ventas\Sistema_Ventas_Garay\Sistema_Ventas_Garay\obj\x86\Debug\Sistema_Ventas_Garay.pdb
