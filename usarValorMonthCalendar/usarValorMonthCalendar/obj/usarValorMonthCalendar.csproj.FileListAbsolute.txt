@@ -1,0 +1,8 @@
+C:\Documents and Settings\Irving Flores\Mis documentos\Visual Studio 2005\Projects\usarValorMonthCalendar\usarValorMonthCalendar\bin\Debug\usarValorMonthCalendar.exe
+C:\Documents and Settings\Irving Flores\Mis documentos\Visual Studio 2005\Projects\usarValorMonthCalendar\usarValorMonthCalendar\bin\Debug\usarValorMonthCalendar.pdb
+C:\Documents and Settings\Irving Flores\Mis documentos\Visual Studio 2005\Projects\usarValorMonthCalendar\usarValorMonthCalendar\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Irving Flores\Mis documentos\Visual Studio 2005\Projects\usarValorMonthCalendar\usarValorMonthCalendar\obj\Debug\usarValorMonthCalendar.Form1.resources
+C:\Documents and Settings\Irving Flores\Mis documentos\Visual Studio 2005\Projects\usarValorMonthCalendar\usarValorMonthCalendar\obj\Debug\usarValorMonthCalendar.Properties.Resources.resources
+C:\Documents and Settings\Irving Flores\Mis documentos\Visual Studio 2005\Projects\usarValorMonthCalendar\usarValorMonthCalendar\obj\Debug\usarValorMonthCalendar.csproj.GenerateResource.Cache
+C:\Documents and Settings\Irving Flores\Mis documentos\Visual Studio 2005\Projects\usarValorMonthCalendar\usarValorMonthCalendar\obj\Debug\usarValorMonthCalendar.exe
+C:\Documents and Settings\Irving Flores\Mis documentos\Visual Studio 2005\Projects\usarValorMonthCalendar\usarValorMonthCalendar\obj\Debug\usarValorMonthCalendar.pdb

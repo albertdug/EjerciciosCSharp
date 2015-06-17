@@ -1,0 +1,7 @@
+C:\Users\Albert\Desktop\C\Ejercicios\usarValorMonthCalendar\usarValorMonthCalendar\obj\Debug\usarValorMonthCalendar.exe
+C:\Users\Albert\Desktop\C\Ejercicios\usarValorMonthCalendar\usarValorMonthCalendar\obj\Debug\usarValorMonthCalendar.pdb
+C:\Users\Albert\Desktop\C\Ejercicios\usarValorMonthCalendar\usarValorMonthCalendar\bin\Debug\usarValorMonthCalendar.exe
+C:\Users\Albert\Desktop\C\Ejercicios\usarValorMonthCalendar\usarValorMonthCalendar\bin\Debug\usarValorMonthCalendar.pdb
+C:\Users\Albert\Desktop\C\Ejercicios\usarValorMonthCalendar\usarValorMonthCalendar\obj\Debug\usarValorMonthCalendar.Form1.resources
+C:\Users\Albert\Desktop\C\Ejercicios\usarValorMonthCalendar\usarValorMonthCalendar\obj\Debug\usarValorMonthCalendar.Properties.Resources.resources
+C:\Users\Albert\Desktop\C\Ejercicios\usarValorMonthCalendar\usarValorMonthCalendar\obj\Debug\usarValorMonthCalendar.csproj.GenerateResource.Cache
